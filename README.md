@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jabiraziz , a python and flask backend web developer from pakistan.
-- 👀 I’m interested in working with website which i have been doing for like more than 1 year.
-- 🌱 I’m currently learning Flask new features and working with databases also i am looking forward to ger some knowledge of Django framework.
-- 💞️ I’m looking to collaborate on backend of web application using flask framework.
-- 📫 Reach out to me: jabiraziz430@gmail.com
+- 👋 Hi, I’m @jabiraziz , a python backend web developer(Flask and Gjango) from pakistan.
+- 👀 I’m interested in turning amazing ideas into website which i have been doing for like more than 2 year.
+- 🌱 I’m currently learning Flask and Django new features and to get more deep knowledge of it.
+- 💞️ I’m looking to collaborate on backend of web application using flask/django framework.
+- 📫 Reach out to me: ijabiraziz@gmail.com
 
 Thanks!
